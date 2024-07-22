@@ -1,4 +1,4 @@
-# does
+# Struct Types
 
 Validate your classes against interfaces the familiar way, just import `does`
 
