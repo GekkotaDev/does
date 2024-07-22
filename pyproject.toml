@@ -1,5 +1,5 @@
 [project]
-name = "does"
+name = "struct-types"
 version = "0.0.0"
 description = "Static + runtime class declaration level interface validation"
 authors = [
